@@ -1,0 +1,3 @@
+﻿  ShortMaze.cpp
+D:\C++\BryanPracticeCode3\ShortMaze\ShortMaze.cpp(416,11): warning C4101: 'erase': unreferenced local variable
+  ShortMaze.vcxproj -> D:\C++\BryanPracticeCode3\Debug\ShortMaze.exe
